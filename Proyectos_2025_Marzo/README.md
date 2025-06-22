@@ -2,6 +2,22 @@
 
 Esta carpeta contiene los proyectos desarrollados en la cohorte de marzo 2025 del programa Tech2, con enfoque en modelos predictivos avanzados, análisis de datos empresariales y aplicaciones de inteligencia artificial en contextos colombianos.
 
+## 👨‍💼 Dirección Académica
+
+### **Directores del Programa**
+
+#### 🎓 **Natalia Betancur H**
+- **GitHub**: [@NataliaBetancurH](https://github.com/NataliaBetancurH)
+- **Perfil**: Científica de Datos | Docente Universitaria
+- **Especialidades**: Proyectos avanzados de analítica, sectores telecomunicaciones, banca y salud
+
+#### 🎓 **Frank Yesid Zapata C**
+- **GitHub**: [@FrankYesid](https://github.com/FrankYesid)
+- **Perfil**: Data Scientist | Investigador en Interfaces Cerebro-Computadora (BCI)
+- **Especialidades**: Reconocimiento de patrones, algoritmos de machine learning, análisis de señales
+
+---
+
 ## 📋 Proyectos Incluidos
 
 ### 🏢 G1 - Formalización Empresarial
@@ -195,6 +211,13 @@ Incluye también una carpeta con actividades grupales que contienen:
 - Datasets de práctica (Netflix, bancos, agricultura, etc.)
 - Documentación de análisis exploratorio
 
+## 🤝 Contacto de los Directores
+
+- **Natalia Betancur H**: [GitHub](https://github.com/NataliaBetancurH) | [LinkedIn](https://www.linkedin.com/in/nataliabetancurh)
+- **Frank Yesid Zapata C**: [GitHub](https://github.com/FrankYesid) | [Portfolio](https://responsive-portfolio-fyzapatac.netlify.app/)
+
 ---
 
-*Proyectos desarrollados por estudiantes del programa Tech2 - Cohort Marzo 2025* 
+*Proyectos desarrollados por estudiantes del programa Tech2 - Cohort Marzo 2025*
+
+*Dirigido por Natalia Betancur H y Frank Yesid Zapata C* 
