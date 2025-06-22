@@ -1,0 +1,360 @@
+# Configuración Global - Proyectos Tech2
+# Análisis de Datos e Inteligencia Artificial
+
+# Información del Proyecto
+project:
+  name: "Proyectos Tech2"
+  description: "Colección de proyectos de análisis de datos e inteligencia artificial"
+  version: "1.0.0"
+  author: "Estudiantes Tech2"
+  organization: "Tech2 - Análisis de Datos e Inteligencia Artificial"
+  year: "2024-2025"
+  license: "MIT"
+
+# Configuración de Entorno
+environment:
+  python_version: "3.8+"
+  recommended_python_version: "3.9"
+  virtual_environment: true
+  package_manager: "pip"
+
+# Configuración de Datos
+data:
+  # Formatos de archivo soportados
+  supported_formats:
+    - "csv"
+    - "xlsx"
+    - "xls"
+    - "json"
+    - "parquet"
+    - "h5"
+    - "hdf5"
+    - "pkl"
+    - "pickle"
+  
+  # Directorios de datos
+  directories:
+    raw_data: "data/raw"
+    processed_data: "data/processed"
+    external_data: "data/external"
+    interim_data: "data/interim"
+  
+  # Configuración de encoding
+  default_encoding: "utf-8"
+  
+  # Configuración de separadores
+  csv_separator: ","
+  decimal_separator: "."
+
+# Configuración de Modelos
+models:
+  # Algoritmos de machine learning
+  supervised_learning:
+    classification:
+      - "Random Forest"
+      - "XGBoost"
+      - "LightGBM"
+      - "SVM"
+      - "Logistic Regression"
+      - "Decision Trees"
+    regression:
+      - "Linear Regression"
+      - "Random Forest"
+      - "XGBoost"
+      - "SVR"
+      - "Ridge"
+      - "Lasso"
+  
+  unsupervised_learning:
+    clustering:
+      - "K-Means"
+      - "Hierarchical Clustering"
+      - "DBSCAN"
+      - "HDBSCAN"
+    dimensionality_reduction:
+      - "PCA"
+      - "t-SNE"
+      - "UMAP"
+      - "LDA"
+  
+  # Configuración de validación
+  validation:
+    test_size: 0.2
+    random_state: 42
+    cv_folds: 5
+    scoring_metrics:
+      classification:
+        - "accuracy"
+        - "precision"
+        - "recall"
+        - "f1"
+        - "roc_auc"
+      regression:
+        - "r2"
+        - "rmse"
+        - "mae"
+        - "mape"
+
+# Configuración de Visualización
+visualization:
+  # Librerías de visualización
+  libraries:
+    - "matplotlib"
+    - "seaborn"
+    - "plotly"
+    - "bokeh"
+    - "altair"
+  
+  # Configuración de estilos
+  style:
+    default_style: "seaborn-v0_8"
+    figure_size: [10, 6]
+    dpi: 300
+    color_palette: "viridis"
+  
+  # Configuración de gráficos
+  plots:
+    histogram_bins: 30
+    boxplot_whis: 1.5
+    scatter_alpha: 0.6
+    line_width: 2
+
+# Configuración de Procesamiento
+processing:
+  # Configuración de paralelización
+  parallel:
+    n_jobs: -1
+    backend: "multiprocessing"
+  
+  # Configuración de memoria
+  memory:
+    max_memory_usage: "8GB"
+    chunk_size: 10000
+  
+  # Configuración de logging
+  logging:
+    level: "INFO"
+    format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+    file: "logs/processing.log"
+
+# Configuración de Metodología
+methodology:
+  # Metodología CRISP-DM
+  crisp_dm:
+    phases:
+      - "Business Understanding"
+      - "Data Understanding"
+      - "Data Preparation"
+      - "Modeling"
+      - "Evaluation"
+      - "Deployment"
+  
+  # Configuración de experimentos
+  experiments:
+    tracking: true
+    framework: "mlflow"
+    experiment_name: "tech2_projects"
+    artifact_location: "mlruns"
+
+# Configuración de Calidad de Datos
+data_quality:
+  # Validaciones automáticas
+  validations:
+    check_missing_values: true
+    check_duplicates: true
+    check_data_types: true
+    check_outliers: true
+    check_consistency: true
+  
+  # Umbrales de calidad
+  thresholds:
+    max_missing_percentage: 0.3
+    max_duplicate_percentage: 0.1
+    outlier_threshold: 3.0
+
+# Configuración de Seguridad
+security:
+  # Manejo de datos sensibles
+  sensitive_data:
+    encryption: true
+    anonymization: true
+    access_control: true
+  
+  # Configuración de credenciales
+  credentials:
+    env_file: ".env"
+    key_file: "config/keys.yaml"
+
+# Configuración de Despliegue
+deployment:
+  # Plataformas de despliegue
+  platforms:
+    - "Streamlit"
+    - "Gradio"
+    - "Flask"
+    - "FastAPI"
+    - "Docker"
+  
+  # Configuración de contenedores
+  docker:
+    base_image: "python:3.9-slim"
+    port: 8080
+    health_check: true
+
+# Configuración de Documentación
+documentation:
+  # Herramientas de documentación
+  tools:
+    - "Sphinx"
+    - "Jupyter Notebooks"
+    - "Markdown"
+    - "HTML"
+  
+  # Configuración de generación
+  generation:
+    auto_doc: true
+    include_examples: true
+    include_tests: true
+
+# Configuración de Testing
+testing:
+  # Frameworks de testing
+  frameworks:
+    - "pytest"
+    - "unittest"
+  
+  # Configuración de cobertura
+  coverage:
+    minimum_coverage: 80
+    exclude_patterns:
+      - "tests/*"
+      - "docs/*"
+      - "config/*"
+
+# Configuración de Monitoreo
+monitoring:
+  # Métricas de monitoreo
+  metrics:
+    - "model_performance"
+    - "data_drift"
+    - "system_health"
+    - "user_engagement"
+  
+  # Alertas
+  alerts:
+    performance_threshold: 0.8
+    drift_threshold: 0.1
+    error_threshold: 0.05
+
+# Configuración Regional
+regional:
+  # Configuración para Colombia
+  colombia:
+    timezone: "America/Bogota"
+    locale: "es_CO"
+    currency: "COP"
+    date_format: "%d/%m/%Y"
+    decimal_separator: ","
+    thousands_separator: "."
+
+# Configuración de Proyectos Específicos
+projects:
+  # Configuración para proyectos de 2024
+  cohort_2024_octubre:
+    groups:
+      - "Grupo1-Modelo-Agrupacion"
+      - "Grupo2-Cuencas"
+      - "Grupo3-Canasta-familiar"
+      - "Grupo4-Segmentacion-Mercados-Productos"
+      - "Grupo5-Modelo-Predictivo-Redes-Sociales"
+    focus: "Análisis exploratorio y modelos básicos"
+  
+  # Configuración para proyectos de 2025
+  cohort_2025_marzo:
+    groups:
+      - "G1"
+      - "G2"
+      - "G3"
+      - "G5"
+      - "G6"
+      - "G7"
+      - "G9"
+      - "G10"
+      - "G11"
+      - "G12"
+      - "G13"
+    focus: "Modelos predictivos avanzados y análisis empresarial"
+
+# Configuración de Herramientas
+tools:
+  # IDEs recomendados
+  ides:
+    - "Jupyter Lab"
+    - "VS Code"
+    - "PyCharm"
+    - "Spyder"
+  
+  # Herramientas de versionado
+  version_control:
+    - "Git"
+    - "GitHub"
+    - "GitLab"
+  
+  # Herramientas de colaboración
+  collaboration:
+    - "Slack"
+    - "Teams"
+    - "Discord"
+    - "Zoom"
+
+# Configuración de Recursos
+resources:
+  # Recursos de aprendizaje
+  learning:
+    courses:
+      - "Machine Learning"
+      - "Data Science"
+      - "Python Programming"
+      - "Statistics"
+    platforms:
+      - "Coursera"
+      - "edX"
+      - "Udemy"
+      - "DataCamp"
+  
+  # Recursos de datos
+  data_sources:
+    colombia:
+      - "DANE"
+      - "IDEAM"
+      - "Banco de la República"
+      - "DIAN"
+    international:
+      - "Kaggle"
+      - "UCI Machine Learning Repository"
+      - "Google Dataset Search"
+      - "AWS Open Data"
+
+# Configuración de Contacto
+contact:
+  email: "tech2@example.com"
+  website: "https://tech2.edu.co"
+  github: "https://github.com/tech2"
+  linkedin: "https://linkedin.com/company/tech2"
+
+# Configuración de Contribución
+contribution:
+  # Guías de contribución
+  guidelines:
+    - "Fork el repositorio"
+    - "Crea una rama para tu feature"
+    - "Haz commit de tus cambios"
+    - "Push a la rama"
+    - "Crea un Pull Request"
+  
+  # Estándares de código
+  code_standards:
+    - "PEP 8"
+    - "Type hints"
+    - "Docstrings"
+    - "Unit tests" 

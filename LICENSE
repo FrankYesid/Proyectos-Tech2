@@ -1,0 +1,56 @@
+MIT License
+
+Copyright (c) 2024-2025 Tech2 - Análisis de Datos e Inteligencia Artificial
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Información Adicional
+
+Este repositorio contiene proyectos académicos desarrollados por estudiantes del programa Tech2 - Análisis de Datos e Inteligencia Artificial. Los proyectos incluyen:
+
+- Análisis exploratorio de datos (EDA)
+- Modelos de machine learning supervisados y no supervisados
+- Aplicaciones de inteligencia artificial en contextos colombianos
+- Herramientas de visualización y análisis estadístico
+
+### Uso Académico
+
+Los proyectos pueden ser utilizados para:
+- Fines educativos y de investigación
+- Referencia en trabajos académicos
+- Aprendizaje de técnicas de ciencia de datos
+- Desarrollo de habilidades en análisis de datos
+
+### Atribución
+
+Si utilizas este código o los resultados de estos proyectos, por favor incluye la siguiente atribución:
+
+```
+Proyectos desarrollados por estudiantes del programa Tech2 - Análisis de Datos e Inteligencia Artificial
+```
+
+### Contacto
+
+Para más información sobre los proyectos o el programa Tech2, contacta a los desarrolladores o instructores correspondientes.
+
+---
+
+**Nota**: Los datasets utilizados en estos proyectos pueden tener sus propias licencias y restricciones de uso. Por favor, verifica las licencias específicas de cada dataset antes de su utilización. 
