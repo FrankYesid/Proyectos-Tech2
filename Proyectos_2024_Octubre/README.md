@@ -2,6 +2,22 @@
 
 Esta carpeta contiene los proyectos desarrollados en la cohorte de octubre 2024 del programa Tech2, enfocados en análisis exploratorio de datos y modelos de machine learning aplicados a diferentes contextos colombianos.
 
+## 👨‍💼 Dirección Académica
+
+### **Directores del Programa**
+
+#### 🎓 **Natalia Betancur H**
+- **GitHub**: [@NataliaBetancurH](https://github.com/NataliaBetancurH)
+- **Perfil**: Científica de Datos | Docente Universitaria
+- **Especialidades**: Proyectos avanzados de analítica, sectores telecomunicaciones, banca y salud
+
+#### 🎓 **Frank Yesid Zapata C**
+- **GitHub**: [@FrankYesid](https://github.com/FrankYesid)
+- **Perfil**: Data Scientist | Investigador en Interfaces Cerebro-Computadora (BCI)
+- **Especialidades**: Reconocimiento de patrones, algoritmos de machine learning, análisis de señales
+
+---
+
 ## 📋 Proyectos Incluidos
 
 ### 🏠 Grupo 1 - Modelo de Agrupación
@@ -118,6 +134,13 @@ GrupoX-Tema/
 4. **Consulta los reportes** para entender los hallazgos
 5. **Analiza las visualizaciones** generadas
 
+## 🤝 Contacto de los Directores
+
+- **Natalia Betancur H**: [GitHub](https://github.com/NataliaBetancurH) | [LinkedIn](https://www.linkedin.com/in/nataliabetancurh)
+- **Frank Yesid Zapata C**: [GitHub](https://github.com/FrankYesid) | [Portfolio](https://responsive-portfolio-fyzapatac.netlify.app/)
+
 ---
 
-*Proyectos desarrollados por estudiantes del programa Tech2 - Cohort Octubre 2024* 
+*Proyectos desarrollados por estudiantes del programa Tech2 - Cohort Octubre 2024*
+
+*Dirigido por Natalia Betancur H y Frank Yesid Zapata C* 
