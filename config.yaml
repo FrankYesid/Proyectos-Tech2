@@ -11,6 +11,52 @@ project:
   year: "2024-2025"
   license: "MIT"
 
+# Dirección Académica
+leadership:
+  directors:
+    natalia_betancur:
+      name: "Natalia Betancur H"
+      github: "https://github.com/NataliaBetancurH"
+      linkedin: "https://www.linkedin.com/in/nataliabetancurh"
+      profile: "Científica de Datos | Docente Universitaria"
+      experience: "Más de 5 años en desarrollo de tecnología e Inteligencia Artificial"
+      education:
+        - "Ingeniería Biomédica"
+        - "Ingeniería Electrónica"
+        - "Maestría en Ingeniería enfocada en Robótica"
+        - "Certificada como Google Cloud Leader"
+      specializations:
+        - "Proyectos avanzados de analítica y ciencia de datos"
+        - "Sectores: telecomunicaciones, banca y salud"
+        - "Creadora de contenido en tecnología"
+        - "Reducción de brecha de conocimiento en IA en América Latina"
+      social_media:
+        tiktok: "https://www.tiktok.com/@nata.py_"
+        instagram: "nata.py_"
+        youtube: "Natalia Betancur"
+    
+    frank_yesid:
+      name: "Frank Yesid Zapata C"
+      github: "https://github.com/FrankYesid"
+      portfolio: "https://responsive-portfolio-fyzapatac.netlify.app/"
+      linkedin: "https://www.linkedin.com/in/frank-yesid-zapata-castaño-524134238"
+      profile: "Data Scientist | Investigador en Interfaces Cerebro-Computadora (BCI)"
+      experience: "Análisis de datos y desarrollo de modelos predictivos"
+      education:
+        - "Ingeniero Electrónico"
+        - "Maestría en Ingeniería de Automatización Industrial"
+        - "Investigador en Interfaces Cerebro-Computadora (BCI)"
+      specializations:
+        - "Reconocimiento de patrones"
+        - "Procesos de Data Science"
+        - "Algoritmos de machine learning"
+        - "Análisis de señales y procesamiento"
+      social_media:
+        instagram: "fran_yezid"
+        discord: "https://discord.gg/bf67nBCn"
+      contact:
+        email: "fyzapatac@gmail.com"
+
 # Configuración de Entorno
 environment:
   python_version: "3.8+"
@@ -268,6 +314,9 @@ projects:
       - "Grupo4-Segmentacion-Mercados-Productos"
       - "Grupo5-Modelo-Predictivo-Redes-Sociales"
     focus: "Análisis exploratorio y modelos básicos"
+    directors:
+      - "Natalia Betancur H"
+      - "Frank Yesid Zapata C"
   
   # Configuración para proyectos de 2025
   cohort_2025_marzo:
@@ -284,6 +333,9 @@ projects:
       - "G12"
       - "G13"
     focus: "Modelos predictivos avanzados y análisis empresarial"
+    directors:
+      - "Natalia Betancur H"
+      - "Frank Yesid Zapata C"
 
 # Configuración de Herramientas
 tools:
@@ -341,6 +393,15 @@ contact:
   website: "https://tech2.edu.co"
   github: "https://github.com/tech2"
   linkedin: "https://linkedin.com/company/tech2"
+  directors:
+    natalia:
+      email: "natalia.betancur@tech2.edu.co"
+      github: "https://github.com/NataliaBetancurH"
+      linkedin: "https://www.linkedin.com/in/nataliabetancurh"
+    frank:
+      email: "fyzapatac@gmail.com"
+      github: "https://github.com/FrankYesid"
+      portfolio: "https://responsive-portfolio-fyzapatac.netlify.app/"
 
 # Configuración de Contribución
 contribution:
@@ -357,4 +418,12 @@ contribution:
     - "PEP 8"
     - "Type hints"
     - "Docstrings"
-    - "Unit tests" 
+    - "Unit tests"
+  
+  # Reconocimientos
+  acknowledgments:
+    directors:
+      - "Natalia Betancur H - Dirección Académica"
+      - "Frank Yesid Zapata C - Dirección Académica"
+    students: "Estudiantes del programa Tech2"
+    program: "Tech2 - Análisis de Datos e Inteligencia Artificial" 
