@@ -36,14 +36,14 @@ Proyectos desarrollados en la cohorte de marzo 2025, con enfoque en modelos pred
 Proyectos desarrollados en la cohorte de mayo 2025, enfocados en análisis de datos, modelos predictivos y aplicaciones de inteligencia artificial en diferentes sectores.
 
 **Grupos y Temáticas:**
-- [**G1**]: Análisis y modelado predictivo en salud
-- **G2**: Análisis de consumo abusivo de sustancias
-- **G3**: Análisis y clusterización de bases de datos
-- **G4**: Predicción y análisis en el sector salud
-- **G5**: Detección de phishing y análisis de encuestas
-- **G6**: Análisis de desempeño y encuestas
-- **G7**: Predicción de churn en telecomunicaciones
-- **G8**: Predicción de churn y análisis de clientes
+- [**G1**](/Proyectos_2025_Mayo/G1/): Análisis y modelado predictivo en salud
+- [**G2**](/Proyectos_2025_Mayo/G2/): Análisis de consumo abusivo de sustancias
+- [**G3**](/Proyectos_2025_Mayo/G3/): Análisis y clusterización de bases de datos
+- [**G4**](/Proyectos_2025_Mayo/G4/): Predicción y análisis en el sector salud
+- [**G5**](/Proyectos_2025_Mayo/G5/): Detección de phishing y análisis de encuestas
+- [**G6**](/Proyectos_2025_Mayo/G6/): Análisis de desempeño y encuestas
+- [**G7**](/Proyectos_2025_Mayo/G7/): Predicción de churn en telecomunicaciones
+- [**G8**](/Proyectos_2025_Mayo/G8/): Predicción de churn y análisis de clientes
 
 Cada carpeta de grupo contiene código fuente, bases de datos y documentación específica del proyecto.
 
@@ -95,9 +95,8 @@ Este repositorio es el resultado del trabajo colaborativo de estudiantes del pro
 
 ### **Contacto de los Directores**
 
-- **Natalia Betancur H**: [GitHub](https://github.com/NataliaBetancurH) | [LinkedIn](https://www.linkedin.com/in/nataliabetancurh)
-- **Frank Yesid Zapata C**: [GitHub](https://github.com/FrankYesid) | [Portfolio](https://responsive-portfolio-fyzapatac.netlify.app/)
-
+- **Natalia Betancur H**: [GitHub](https://github.com/NataliaBetancurH) 
+- **Frank Yesid Zapata C**: [GitHub](https://github.com/FrankYesid) 
 ---
 
 *Desarrollado por estudiantes del programa Tech2 - Análisis de Datos e Inteligencia Artificial*
