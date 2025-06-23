@@ -1,6 +1,16 @@
 # Proyectos Octubre 2024 - Tech2
 
+[⬅️ Volver al repositorio principal](/)
+
 Esta carpeta contiene los proyectos desarrollados en la cohorte de octubre 2024 del programa Tech2, enfocados en análisis exploratorio de datos y modelos de machine learning aplicados a diferentes contextos colombianos.
+
+## Navegación entre proyectos
+
+- [Grupo1-Modelo-Agrupacion](/Proyectos_2024_Octubre/Grupo1-Modelo-Agrupacion)
+- [Grupo2-Cuencas](/Proyectos_2024_Octubre/Grupo2-Cuencas)
+- [Grupo3-Canasta-familiar](/Proyectos_2024_Octubre/Grupo3-Canasta-familiar)
+- [Grupo4-Segmentacion-Mercados-Productos](/Proyectos_2024_Octubre/Grupo4-Segmentacion-Mercados-Productos)
+- [Grupo5-Modelo-Predictivo-Redes-Sociales](/Proyectos_2024_Octubre/Grupo5-Modelo-Predictivo-Redes-Sociales)
 
 ## 👨‍💼 Dirección Académica
 

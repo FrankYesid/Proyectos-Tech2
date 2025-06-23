@@ -1,5 +1,7 @@
 # Proyectos 2025 Mayo
 
+[⬅️ Volver al repositorio principal](/)
+
 Este repositorio contiene los proyectos desarrollados por los diferentes grupos en el marco del Bootcamp de Inteligencia Artificial y Ciencia de Datos, mayo 2025. Cada subcarpeta corresponde a un grupo de trabajo con su propio proyecto, datos, código y documentación.
 
 ## Estructura de los proyectos
@@ -8,6 +10,17 @@ Cada carpeta de grupo (G1, G2, ..., G8) contiene generalmente:
 - **Code/**: Código fuente y notebooks del proyecto.
 - **Data/**: Bases de datos y archivos de entrada utilizados.
 - **Docs/** o **Documents/**: Documentación, reportes y presentaciones del proyecto.
+
+## Navegación entre proyectos
+
+- [G1](/Proyectos_2025_Mayo/G1)
+- [G2](/Proyectos_2025_Mayo/G2)
+- [G3](/Proyectos_2025_Mayo/G3)
+- [G4](/Proyectos_2025_Mayo/G4)
+- [G5](/Proyectos_2025_Mayo/G5)
+- [G6](/Proyectos_2025_Mayo/G6)
+- [G7](/Proyectos_2025_Mayo/G7)
+- [G8](/Proyectos_2025_Mayo/G8)
 
 ## Descripción de los proyectos
 

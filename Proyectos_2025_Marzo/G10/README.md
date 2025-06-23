@@ -1,4 +1,12 @@
-# G10 - Exportaciones Colombianas
+[⬅️ Volver a Proyectos_2025_Marzo](/Proyectos_2025_Marzo)
+
+# Proyecto G10 - Exportaciones Colombianas
+
+## Índice rápido
+- [CÓDIGOS](/Proyectos_2025_Marzo/G10/CÓDIGOS)
+- [DATOS](/Proyectos_2025_Marzo/G10/DATOS)
+- [DOCS](/Proyectos_2025_Marzo/G10/DOCS)
+
 ## Modelo Predictivo de Exportaciones Colombianas
 
 ### 📋 Descripción del Proyecto

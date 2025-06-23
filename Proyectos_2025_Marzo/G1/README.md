@@ -1,4 +1,13 @@
-# G1 - Formalización Empresarial
+[⬅️ Volver a Proyectos_2025_Marzo](/Proyectos_2025_Marzo)
+
+# Proyecto G1 - Formalización Empresarial
+
+## Índice rápido
+- [CÓDIGOS](/Proyectos_2025_Marzo/G1/CÓDIGOS)
+- [DATOS](/Proyectos_2025_Marzo/G1/DATOS)
+- [DOCUMENTOS](/Proyectos_2025_Marzo/G1/DOCUMENTOS)
+- [EVIDENCIAS](/Proyectos_2025_Marzo/G1/EVIDENCIAS)
+
 ## Evaluación del Impacto de la Formalización Empresarial en Colombia
 
 ### 📋 Descripción del Proyecto

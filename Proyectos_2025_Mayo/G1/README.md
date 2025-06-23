@@ -1,4 +1,11 @@
+[⬅️ Volver a Proyectos_2025_Mayo](/Proyectos_2025_Mayo)
+
 # Proyecto G1 - Análisis y Modelado Predictivo en Salud
+
+## Índice rápido
+- [Code](/Proyectos_2025_Mayo/G1/Code)
+- [Data](/Proyectos_2025_Mayo/G1/Data)
+- [Docs](/Proyectos_2025_Mayo/G1/Docs)
 
 ## Descripción general
 Este proyecto tiene como objetivo analizar datos del sector salud y desarrollar modelos predictivos para identificar patrones relevantes. El enfoque principal es la aplicación de técnicas de inteligencia artificial y ciencia de datos para mejorar la toma de decisiones en el área de la salud.

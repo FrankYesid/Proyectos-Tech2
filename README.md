@@ -39,7 +39,7 @@ Este repositorio contiene una colección de proyectos de análisis de datos e in
 
 ## 📁 Estructura del Repositorio
 
-### 📂 Proyectos_2024_Octubre
+### 📂 [Proyectos_2024_Octubre](/Proyectos_2024_Octubre)
 Proyectos desarrollados en la cohorte de octubre 2024, enfocados en análisis exploratorio de datos y modelos de machine learning aplicados a diferentes contextos colombianos.
 
 **Grupos y Temáticas:**

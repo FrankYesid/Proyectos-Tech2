@@ -1,4 +1,12 @@
-# G2 - Mascotas en Riesgo
+[⬅️ Volver a Proyectos_2025_Marzo](/Proyectos_2025_Marzo)
+
+# Proyecto G2 - Mascotas en Riesgo
+
+## Índice rápido
+- [codigos](/Proyectos_2025_Marzo/G2/codigos)
+- [Datos](/Proyectos_2025_Marzo/G2/Datos)
+- [documentos](/Proyectos_2025_Marzo/G2/documentos)
+
 ## "Huellas en Peligro" - Identificación de Razas con Mayor Riesgo de Abandono
 
 ### 📋 Descripción del Proyecto

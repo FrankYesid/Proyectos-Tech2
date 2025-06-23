@@ -1,4 +1,11 @@
+[⬅️ Volver a Proyectos_2025_Mayo](/Proyectos_2025_Mayo)
+
 # Proyecto G6 - Análisis de Desempeño y Encuestas
+
+## Índice rápido
+- [Code](/Proyectos_2025_Mayo/G6/Code)
+- [Data](/Proyectos_2025_Mayo/G6/Data)
+- [Docs](/Proyectos_2025_Mayo/G6/Docs)
 
 ## Descripción general
 Este proyecto se enfoca en el análisis de datos de desempeño y encuestas, utilizando técnicas de ciencia de datos para extraer información relevante y apoyar la toma de decisiones.

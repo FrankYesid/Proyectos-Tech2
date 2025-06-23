@@ -1,6 +1,22 @@
 # Proyectos Marzo 2025 - Tech2
 
+[⬅️ Volver al repositorio principal](/)
+
 Esta carpeta contiene los proyectos desarrollados en la cohorte de marzo 2025 del programa Tech2, con enfoque en modelos predictivos avanzados, análisis de datos empresariales y aplicaciones de inteligencia artificial en contextos colombianos.
+
+## Navegación entre proyectos
+
+- [G1](/Proyectos_2025_Marzo/G1)
+- [G2](/Proyectos_2025_Marzo/G2)
+- [G3](/Proyectos_2025_Marzo/G3)
+- [G5](/Proyectos_2025_Marzo/G5)
+- [G6](/Proyectos_2025_Marzo/G6)
+- [G7](/Proyectos_2025_Marzo/G7)
+- [G9](/Proyectos_2025_Marzo/G9)
+- [G10](/Proyectos_2025_Marzo/G10)
+- [G11](/Proyectos_2025_Marzo/G11)
+- [G12](/Proyectos_2025_Marzo/G12)
+- [G13](/Proyectos_2025_Marzo/G13)
 
 ## 👨‍💼 Dirección Académica
 
