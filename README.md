@@ -65,6 +65,21 @@ Proyectos desarrollados en la cohorte de marzo 2025, con enfoque en modelos pred
 - **G12**: Clasificación y Segmentación
 - **G13**: Educación para el Trabajo y Desarrollo Humano
 
+### 📂 Proyectos_2025_Mayo
+Proyectos desarrollados en la cohorte de mayo 2025, enfocados en análisis de datos, modelos predictivos y aplicaciones de inteligencia artificial en diferentes sectores.
+
+**Grupos y Temáticas:**
+- **G1**: Análisis y modelado predictivo en salud
+- **G2**: Análisis de consumo abusivo de sustancias
+- **G3**: Análisis y clusterización de bases de datos
+- **G4**: Predicción y análisis en el sector salud
+- **G5**: Detección de phishing y análisis de encuestas
+- **G6**: Análisis de desempeño y encuestas
+- **G7**: Predicción de churn en telecomunicaciones
+- **G8**: Predicción de churn y análisis de clientes
+
+Cada carpeta de grupo contiene código fuente, bases de datos y documentación específica del proyecto.
+
 ## 🎯 Objetivos de los Proyectos
 
 Los proyectos desarrollados buscan:
@@ -93,7 +108,7 @@ Los proyectos desarrollados buscan:
 
 ## 🚀 Cómo Navegar
 
-1. **Selecciona la cohorte** (2024_Octubre o 2025_Marzo)
+1. **Selecciona la cohorte** (2024_Octubre, 2025_Marzo o 2025_Mayo)
 2. **Elige el grupo** según tu área de interés
 3. **Revisa la documentación** en cada carpeta de proyecto
 4. **Explora los códigos** en formato Jupyter Notebook
