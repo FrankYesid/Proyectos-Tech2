@@ -1,4 +1,12 @@
-# Grupo 4 - Segmentación de Mercados y Productos
+[⬅️ Volver a Proyectos_2024_Octubre](/Proyectos_2024_Octubre)
+
+# Grupo 4 - Segmentación de Mercados
+
+## Índice rápido
+- [BASES DE DATOS](/Proyectos_2024_Octubre/Grupo4-Segmentacion-Mercados-Productos/BASES%20DE%20DATOS)
+- [CÓDIGO](/Proyectos_2024_Octubre/Grupo4-Segmentacion-Mercados-Productos/C%C3%93DIGO)
+- [INFORMACIÓN](/Proyectos_2024_Octubre/Grupo4-Segmentacion-Mercados-Productos/INFORMACI%C3%93N)
+
 ## Análisis y Segmentación de Mercados y Productos Agrícolas y Energéticos
 
 ### 📋 Descripción del Proyecto

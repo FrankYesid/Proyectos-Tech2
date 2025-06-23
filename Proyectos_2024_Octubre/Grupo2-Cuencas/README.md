@@ -1,4 +1,12 @@
+[⬅️ Volver a Proyectos_2024_Octubre](/Proyectos_2024_Octubre)
+
 # Grupo 2 - Cuencas Hidrográficas
+
+## Índice rápido
+- [1. BASES DE DATOS SELECCIONADAS](/Proyectos_2024_Octubre/Grupo2-Cuencas/1.%20BASES%20DE%20DATOS%20SELECCIONADAS)
+- [2. DOCUMENTO PROYECTO](/Proyectos_2024_Octubre/Grupo2-Cuencas/2.%20DOCUMENTO%20PROYECTO)
+- [3. CODES](/Proyectos_2024_Octubre/Grupo2-Cuencas/3.%20CODES)
+
 ## Predicción del Recurso Hídrico en Colombia
 
 ### 📋 Descripción del Proyecto

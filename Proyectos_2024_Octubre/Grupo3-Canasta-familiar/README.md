@@ -1,4 +1,12 @@
+[⬅️ Volver a Proyectos_2024_Octubre](/Proyectos_2024_Octubre)
+
 # Grupo 3 - Canasta Familiar
+
+## Índice rápido
+- [Base de datos final](/Proyectos_2024_Octubre/Grupo3-Canasta-familiar/Base%20de%20datos%20final)
+- [Codigo](/Proyectos_2024_Octubre/Grupo3-Canasta-familiar/Codigo)
+- [Informe](/Proyectos_2024_Octubre/Grupo3-Canasta-familiar/Informe)
+
 ## Análisis de la Canasta Familiar y Caracterización Socioeconómica
 
 ### 📋 Descripción del Proyecto
