@@ -10,33 +10,33 @@ Este repositorio contiene una colección de proyectos de análisis de datos e in
 Proyectos desarrollados en la cohorte de octubre 2024, enfocados en análisis exploratorio de datos y modelos de machine learning aplicados a diferentes contextos colombianos.
 
 **Grupos y Temáticas:**
-- **Grupo 1**: Modelo de Agrupación - Análisis de condiciones de vida y tenencia de bienes
-- **Grupo 2**: Cuencas Hidrográficas - Predicción de recursos hídricos
-- **Grupo 3**: Canasta Familiar - Análisis de precios y consumo
-- **Grupo 4**: Segmentación de Mercados - Energía solar y productos
-- **Grupo 5**: Modelo Predictivo - Redes sociales y comportamiento
+- [**Grupo 1**](/Proyectos_2024_Octubre/Grupo1-Modelo-Agrupacion/): Modelo de Agrupación - Análisis de condiciones de vida y tenencia de bienes
+- [**Grupo 2**](/Proyectos_2024_Octubre/Grupo2-Cuencas/): Cuencas Hidrográficas - Predicción de recursos hídricos
+- [**Grupo 3**](/Proyectos_2024_Octubre/Grupo3-Canasta-familiar/): Canasta Familiar - Análisis de precios y consumo
+- [**Grupo 4**](/Proyectos_2024_Octubre/Grupo4-Segmentacion-Mercados-Productos/): Segmentación de Mercados - Energía solar y productos
+- [**Grupo 5**](/Proyectos_2024_Octubre/Grupo5-Modelo-Predictivo-Redes-Sociales/): Modelo Predictivo - Redes sociales y comportamiento
 
 ### 📂 [Proyectos_2025_Marzo](/Proyectos_2025_Marzo/)
 Proyectos desarrollados en la cohorte de marzo 2025, con enfoque en modelos predictivos avanzados y análisis de datos empresariales.
 
 **Grupos y Temáticas:**
-- **G1**: Formalización Empresarial - Modelos no supervisados
-- **G2**: Mascotas - Identificación de razas en riesgo de abandono
-- **G3**: Música y Comportamiento - Análisis de preferencias musicales
-- **G5**: Análisis de Datos Empresariales
-- **G6**: Consumo y Mujeres - Segmentación de mercados
-- **G7**: Análisis de Datos Sectoriales
-- **G9**: Modelos Predictivos Avanzados
-- **G10**: Exportaciones Colombianas - Modelo predictivo
-- **G11**: Precios Mayoristas Agropecuarios
-- **G12**: Clasificación y Segmentación
-- **G13**: Educación para el Trabajo y Desarrollo Humano
+- [**G1**](/Proyectos_2025_Marzo/G1/): Formalización Empresarial - Modelos no supervisados
+- [**G2**](/Proyectos_2025_Marzo/G2/): Mascotas - Identificación de razas en riesgo de abandono
+- [**G3**](/Proyectos_2025_Marzo/G3/): Música y Comportamiento - Análisis de preferencias musicales
+- [**G5**](/Proyectos_2025_Marzo/G5/): Análisis de Datos Empresariales
+- [**G6**](/Proyectos_2025_Marzo/G6/): Consumo y Mujeres - Segmentación de mercados
+- [**G7**](/Proyectos_2025_Marzo/G7/): Análisis de Datos Sectoriales
+- [**G9**](/Proyectos_2025_Marzo/G9/): Modelos Predictivos Avanzados
+- [**G10**](/Proyectos_2025_Marzo/G10/): Exportaciones Colombianas - Modelo predictivo
+- [**G11**](/Proyectos_2025_Marzo/G11/): Precios Mayoristas Agropecuarios
+- [**G12**](/Proyectos_2025_Marzo/G12/): Clasificación y Segmentación
+- [**G13**](/Proyectos_2025_Marzo/G13/): Educación para el Trabajo y Desarrollo Humano
 
 ### 📂 [Proyectos_2025_Mayo](/Proyectos_2025_Mayo/)
 Proyectos desarrollados en la cohorte de mayo 2025, enfocados en análisis de datos, modelos predictivos y aplicaciones de inteligencia artificial en diferentes sectores.
 
 **Grupos y Temáticas:**
-- **G1**: Análisis y modelado predictivo en salud
+- [**G1**]: Análisis y modelado predictivo en salud
 - **G2**: Análisis de consumo abusivo de sustancias
 - **G3**: Análisis y clusterización de bases de datos
 - **G4**: Predicción y análisis en el sector salud
@@ -105,7 +105,7 @@ Este repositorio es el resultado del trabajo colaborativo de estudiantes del pro
 *Dirigido por Natalia Betancur H y Frank Yesid Zapata C* 
 
 ---
-
+<!-- 
 ## Estructura del Repositorio
 
 ## Carpetas principales
@@ -214,4 +214,4 @@ Este repositorio es el resultado del trabajo colaborativo de estudiantes del pro
   - [G8](/Proyectos_2025_Mayo/G8)
     - [Code](/Proyectos_2025_Mayo/G8/Code)
     - [Data](/Proyectos_2025_Mayo/G8/Data)
-    - [Docs](/Proyectos_2025_Mayo/G8/Docs)
+    - [Docs](/Proyectos_2025_Mayo/G8/Docs) -->
