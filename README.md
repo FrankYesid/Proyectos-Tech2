@@ -6,7 +6,7 @@ Este repositorio contiene una colección de proyectos de análisis de datos e in
 
 ## 📁 Estructura del Repositorio
 
-### 📂 [Proyectos_2024_Octubre](/Proyectos_2024_Octubre)
+### 📂 [Proyectos_2024_Octubre](/Proyectos_2024_Octubre/)
 Proyectos desarrollados en la cohorte de octubre 2024, enfocados en análisis exploratorio de datos y modelos de machine learning aplicados a diferentes contextos colombianos.
 
 **Grupos y Temáticas:**
@@ -16,7 +16,7 @@ Proyectos desarrollados en la cohorte de octubre 2024, enfocados en análisis ex
 - **Grupo 4**: Segmentación de Mercados - Energía solar y productos
 - **Grupo 5**: Modelo Predictivo - Redes sociales y comportamiento
 
-### 📂 Proyectos_2025_Marzo
+### 📂 [Proyectos_2025_Marzo](/Proyectos_2025_Marzo/)
 Proyectos desarrollados en la cohorte de marzo 2025, con enfoque en modelos predictivos avanzados y análisis de datos empresariales.
 
 **Grupos y Temáticas:**
@@ -32,7 +32,7 @@ Proyectos desarrollados en la cohorte de marzo 2025, con enfoque en modelos pred
 - **G12**: Clasificación y Segmentación
 - **G13**: Educación para el Trabajo y Desarrollo Humano
 
-### 📂 Proyectos_2025_Mayo
+### 📂 [Proyectos_2025_Mayo](/Proyectos_2025_Mayo/)
 Proyectos desarrollados en la cohorte de mayo 2025, enfocados en análisis de datos, modelos predictivos y aplicaciones de inteligencia artificial en diferentes sectores.
 
 **Grupos y Temáticas:**
@@ -105,3 +105,113 @@ Este repositorio es el resultado del trabajo colaborativo de estudiantes del pro
 *Dirigido por Natalia Betancur H y Frank Yesid Zapata C* 
 
 ---
+
+## Estructura del Repositorio
+
+## Carpetas principales
+
+- [Proyectos_2024_Octubre](/Proyectos_2024_Octubre)
+  - [Grupo1-Modelo-Agrupacion](/Proyectos_2024_Octubre/Grupo1-Modelo-Agrupacion)
+    - [1. Datos](/Proyectos_2024_Octubre/Grupo1-Modelo-Agrupacion/1.%20Datos)
+    - [2. Códigos](/Proyectos_2024_Octubre/Grupo1-Modelo-Agrupacion/2.%20C%C3%B3digos)
+    - [3. Reportes e informes](/Proyectos_2024_Octubre/Grupo1-Modelo-Agrupacion/3.%20Reportes%20e%20informes)
+  - [Grupo2-Cuencas](/Proyectos_2024_Octubre/Grupo2-Cuencas)
+    - [1. BASES DE DATOS SELECCIONADAS](/Proyectos_2024_Octubre/Grupo2-Cuencas/1.%20BASES%20DE%20DATOS%20SELECCIONADAS)
+    - [2. DOCUMENTO PROYECTO](/Proyectos_2024_Octubre/Grupo2-Cuencas/2.%20DOCUMENTO%20PROYECTO)
+    - [3. CODES](/Proyectos_2024_Octubre/Grupo2-Cuencas/3.%20CODES)
+  - [Grupo3-Canasta-familiar](/Proyectos_2024_Octubre/Grupo3-Canasta-familiar)
+    - [Base de datos final](/Proyectos_2024_Octubre/Grupo3-Canasta-familiar/Base%20de%20datos%20final)
+    - [Codigo](/Proyectos_2024_Octubre/Grupo3-Canasta-familiar/Codigo)
+    - [Informe](/Proyectos_2024_Octubre/Grupo3-Canasta-familiar/Informe)
+  - [Grupo4-Segmentacion-Mercados-Productos](/Proyectos_2024_Octubre/Grupo4-Segmentacion-Mercados-Productos)
+    - [BASES DE DATOS](/Proyectos_2024_Octubre/Grupo4-Segmentacion-Mercados-Productos/BASES%20DE%20DATOS)
+    - [CÓDIGO](/Proyectos_2024_Octubre/Grupo4-Segmentacion-Mercados-Productos/C%C3%93DIGO)
+    - [INFORMACIÓN](/Proyectos_2024_Octubre/Grupo4-Segmentacion-Mercados-Productos/INFORMACI%C3%93N)
+  - [Grupo5-Modelo-Predictivo-Redes-Sociales](/Proyectos_2024_Octubre/Grupo5-Modelo-Predictivo-Redes-Sociales)
+    - [CODIGOS](/Proyectos_2024_Octubre/Grupo5-Modelo-Predictivo-Redes-Sociales/CODIGOS)
+    - [DATA](/Proyectos_2024_Octubre/Grupo5-Modelo-Predictivo-Redes-Sociales/DATA)
+    - [Proyecto escrito](/Proyectos_2024_Octubre/Grupo5-Modelo-Predictivo-Redes-Sociales/Proyecto%20escrito)
+
+- [Proyectos_2025_Marzo](/Proyectos_2025_Marzo)
+  - [G1](/Proyectos_2025_Marzo/G1)
+    - [CÓDIGOS](/Proyectos_2025_Marzo/G1/CÓDIGOS)
+    - [DATOS](/Proyectos_2025_Marzo/G1/DATOS)
+    - [DOCUMENTOS](/Proyectos_2025_Marzo/G1/DOCUMENTOS)
+    - [EVIDENCIAS](/Proyectos_2025_Marzo/G1/EVIDENCIAS)
+  - [G2](/Proyectos_2025_Marzo/G2)
+    - [codigos](/Proyectos_2025_Marzo/G2/codigos)
+    - [Datos](/Proyectos_2025_Marzo/G2/Datos)
+    - [documentos](/Proyectos_2025_Marzo/G2/documentos)
+  - [G3](/Proyectos_2025_Marzo/G3)
+    - [codigos](/Proyectos_2025_Marzo/G3/codigos)
+    - [datos](/Proyectos_2025_Marzo/G3/datos)
+    - [documentos](/Proyectos_2025_Marzo/G3/documentos)
+    - [módulos de estudio ia](/Proyectos_2025_Marzo/G3/módulos%20de%20estudio%20ia)
+  - [G5](/Proyectos_2025_Marzo/G5)
+    - [CODIGO](/Proyectos_2025_Marzo/G5/CODIGO)
+    - [DATOS](/Proyectos_2025_Marzo/G5/DATOS)
+    - [DOCUMENTOS](/Proyectos_2025_Marzo/G5/DOCUMENTOS)
+  - [G6](/Proyectos_2025_Marzo/G6)
+    - [CÓDIGOS](/Proyectos_2025_Marzo/G6/CÓDIGOS)
+    - [DATOS](/Proyectos_2025_Marzo/G6/DATOS)
+    - [DOCUMENTOS_MUJERES_CONSUMO](/Proyectos_2025_Marzo/G6/DOCUMENTOS_MUJERES_CONSUMO)
+    - [PRESENTACIÓN](/Proyectos_2025_Marzo/G6/PRESENTACIÓN)
+  - [G7](/Proyectos_2025_Marzo/G7)
+    - [CÓDIGOS](/Proyectos_2025_Marzo/G7/CÓDIGOS)
+    - [DATOS](/Proyectos_2025_Marzo/G7/DATOS)
+    - [DOCUMENTACIÓN](/Proyectos_2025_Marzo/G7/DOCUMENTACIÓN)
+  - [G9](/Proyectos_2025_Marzo/G9)
+    - [CODECS](/Proyectos_2025_Marzo/G9/CODECS)
+    - [DATOS](/Proyectos_2025_Marzo/G9/DATOS)
+    - [Documentos](/Proyectos_2025_Marzo/G9/Documentos)
+  - [G10](/Proyectos_2025_Marzo/G10)
+    - [CÓDIGOS](/Proyectos_2025_Marzo/G10/CÓDIGOS)
+    - [DATOS](/Proyectos_2025_Marzo/G10/DATOS)
+    - [DOCS](/Proyectos_2025_Marzo/G10/DOCS)
+  - [G11](/Proyectos_2025_Marzo/G11)
+    - [Codigo](/Proyectos_2025_Marzo/G11/Codigo)
+    - [Datos](/Proyectos_2025_Marzo/G11/Datos)
+    - [Documento](/Proyectos_2025_Marzo/G11/Documento)
+    - [Anexos](/Proyectos_2025_Marzo/G11/Anexos)
+  - [G12](/Proyectos_2025_Marzo/G12)
+    - [Codigos](/Proyectos_2025_Marzo/G12/Codigos)
+    - [Datos](/Proyectos_2025_Marzo/G12/Datos)
+    - [Documentacion](/Proyectos_2025_Marzo/G12/Documentacion)
+  - [G13](/Proyectos_2025_Marzo/G13)
+    - [DATOS](/Proyectos_2025_Marzo/G13/DATOS)
+    - [DOCUMENTOS](/Proyectos_2025_Marzo/G13/DOCUMENTOS)
+    - [CODIGOS](/Proyectos_2025_Marzo/G13/CODIGOS)
+
+- [Proyectos_2025_Mayo](/Proyectos_2025_Mayo)
+  - [G1](/Proyectos_2025_Mayo/G1)
+    - [Code](/Proyectos_2025_Mayo/G1/Code)
+    - [Data](/Proyectos_2025_Mayo/G1/Data)
+    - [Docs](/Proyectos_2025_Mayo/G1/Docs)
+  - [G2](/Proyectos_2025_Mayo/G2)
+    - [Code](/Proyectos_2025_Mayo/G2/Code)
+    - [Data](/Proyectos_2025_Mayo/G2/Data)
+    - [Docs](/Proyectos_2025_Mayo/G2/Docs)
+  - [G3](/Proyectos_2025_Mayo/G3)
+    - [Code](/Proyectos_2025_Mayo/G3/Code)
+    - [Data](/Proyectos_2025_Mayo/G3/Data)
+    - [Documents](/Proyectos_2025_Mayo/G3/Documents)
+  - [G4](/Proyectos_2025_Mayo/G4)
+    - [Code](/Proyectos_2025_Mayo/G4/Code)
+    - [Data](/Proyectos_2025_Mayo/G4/Data)
+    - [Docs](/Proyectos_2025_Mayo/G4/Docs)
+  - [G5](/Proyectos_2025_Mayo/G5)
+    - [Code](/Proyectos_2025_Mayo/G5/Code)
+    - [Data](/Proyectos_2025_Mayo/G5/Data)
+    - [Documents](/Proyectos_2025_Mayo/G5/Documents)
+  - [G6](/Proyectos_2025_Mayo/G6)
+    - [Code](/Proyectos_2025_Mayo/G6/Code)
+    - [Data](/Proyectos_2025_Mayo/G6/Data)
+    - [Docs](/Proyectos_2025_Mayo/G6/Docs)
+  - [G7](/Proyectos_2025_Mayo/G7)
+    - [Code](/Proyectos_2025_Mayo/G7/Code)
+    - [Data](/Proyectos_2025_Mayo/G7/Data)
+    - [Documents](/Proyectos_2025_Mayo/G7/Documents)
+  - [G8](/Proyectos_2025_Mayo/G8)
+    - [Code](/Proyectos_2025_Mayo/G8/Code)
+    - [Data](/Proyectos_2025_Mayo/G8/Data)
+    - [Docs](/Proyectos_2025_Mayo/G8/Docs)
