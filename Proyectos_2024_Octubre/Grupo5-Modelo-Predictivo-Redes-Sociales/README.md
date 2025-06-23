@@ -1,7 +1,11 @@
 [⬅️ Volver a Proyectos_2024_Octubre](/Proyectos_2024_Octubre)
 
 # Grupo 5 - Modelo Predictivo Redes Sociales
-## Análisis y Predicción de Comportamiento en Redes Sociales
+
+## Índice rápido
+- [CODIGOS](/Proyectos_2024_Octubre/Grupo5-Modelo-Predictivo-Redes-Sociales/CODIGOS)
+- [DATA](/Proyectos_2024_Octubre/Grupo5-Modelo-Predictivo-Redes-Sociales/DATA)
+- [Proyecto escrito](/Proyectos_2024_Octubre/Grupo5-Modelo-Predictivo-Redes-Sociales/Proyecto%20escrito)
 
 ### 📋 Descripción del Proyecto
 
@@ -56,8 +60,3 @@ Grupo5-Modelo-Predictivo-Redes-Sociales/
 ---
 
 *Proyecto desarrollado por Grupo 5 - Cohort Octubre 2024 - Tech2* 
-
-## Índice rápido
-- [CODIGOS](/Proyectos_2024_Octubre/Grupo5-Modelo-Predictivo-Redes-Sociales/CODIGOS)
-- [DATA](/Proyectos_2024_Octubre/Grupo5-Modelo-Predictivo-Redes-Sociales/DATA)
-- [Proyecto escrito](/Proyectos_2024_Octubre/Grupo5-Modelo-Predictivo-Redes-Sociales/Proyecto%20escrito) 

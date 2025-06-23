@@ -18,22 +18,6 @@ Esta carpeta contiene los proyectos desarrollados en la cohorte de marzo 2025 de
 - [G12](/Proyectos_2025_Marzo/G12)
 - [G13](/Proyectos_2025_Marzo/G13)
 
-## 👨‍💼 Dirección Académica
-
-### **Directores del Programa**
-
-#### 🎓 **Natalia Betancur H**
-- **GitHub**: [@NataliaBetancurH](https://github.com/NataliaBetancurH)
-- **Perfil**: Científica de Datos | Docente Universitaria
-- **Especialidades**: Proyectos avanzados de analítica, sectores telecomunicaciones, banca y salud
-
-#### 🎓 **Frank Yesid Zapata C**
-- **GitHub**: [@FrankYesid](https://github.com/FrankYesid)
-- **Perfil**: Data Scientist | Investigador en Interfaces Cerebro-Computadora (BCI)
-- **Especialidades**: Reconocimiento de patrones, algoritmos de machine learning, análisis de señales
-
----
-
 ## 📋 Proyectos Incluidos
 
 ### 🏢 G1 - Formalización Empresarial
