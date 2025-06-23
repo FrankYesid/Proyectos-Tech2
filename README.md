@@ -2,39 +2,6 @@
 
 Este repositorio contiene una colección de proyectos de análisis de datos e inteligencia artificial desarrollados en el programa Tech2, organizados por cohortes y grupos de trabajo.
 
-## 👨‍💼 Dirección del Proyecto
-
-### **Directores Académicos**
-
-#### 🎓 **Natalia Betancur H**
-- **GitHub**: [@NataliaBetancurH](https://github.com/NataliaBetancurH)
-- **Perfil**: Científica de Datos | Docente Universitaria
-- **Experiencia**: Más de 5 años en desarrollo de tecnología e Inteligencia Artificial
-- **Formación**: 
-  - Ingeniería Biomédica
-  - Ingeniería Electrónica
-  - Maestría en Ingeniería enfocada en Robótica
-  - Certificada como Google Cloud Leader
-- **Especialidades**: 
-  - Proyectos avanzados de analítica y ciencia de datos
-  - Sectores: telecomunicaciones, banca y salud
-  - Creadora de contenido en tecnología
-  - Reducción de brecha de conocimiento en IA en América Latina
-
-#### 🎓 **Frank Yesid Zapata C**
-- **GitHub**: [@FrankYesid](https://github.com/FrankYesid)
-- **Perfil**: Data Scientist | Investigador en Interfaces Cerebro-Computadora (BCI)
-- **Experiencia**: Análisis de datos y desarrollo de modelos predictivos
-- **Formación**:
-  - Ingeniero Electrónico
-  - Maestría en Ingeniería de Automatización Industrial
-  - Investigador en Interfaces Cerebro-Computadora (BCI)
-- **Especialidades**:
-  - Reconocimiento de patrones
-  - Procesos de Data Science
-  - Algoritmos de machine learning
-  - Análisis de señales y procesamiento
-
 ---
 
 ## 📁 Estructura del Repositorio
