@@ -2,7 +2,7 @@
 
 Este repositorio contiene una colección de proyectos de análisis de datos e inteligencia artificial desarrollados en el programa Tech2, organizados por cohortes y grupos de trabajo.
 
----
+--- 
 
 ## 📁 Estructura del Repositorio
 
