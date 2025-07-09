@@ -19,6 +19,7 @@ Proyectos desarrollados en la cohorte de octubre 2024, enfocados en análisis ex
 ### 📂 [Proyectos_2025_Marzo](/Proyectos_2025_Marzo/)
 Proyectos desarrollados en la cohorte de marzo 2025, con enfoque en modelos predictivos avanzados y análisis de datos empresariales.
 
+
 **Grupos y Temáticas:**
 - [**G1**](/Proyectos_2025_Marzo/G1/): Formalización Empresarial - Modelos no supervisados
 - [**G2**](/Proyectos_2025_Marzo/G2/): Mascotas - Identificación de razas en riesgo de abandono
